@@ -327,9 +327,11 @@ h1 {
     #sidebar .pc_sidemenu li {
       background-image: url(../images/news/side_arrow@2x.png); } }
 
+#contents #main h2.company_title {
+  margin-bottom: 0px; }
 #contents #main th {
-  padding-right: 20px;
   padding: 20px 0;
+  padding-right: 20px;
   color: #626262;
   font-size: 14px;
   font-size: 1.4rem; }
